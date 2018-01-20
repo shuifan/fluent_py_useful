@@ -49,3 +49,4 @@ if __name__ == '__main__':
     # print(v2)
     print(format(v1))
     print(format(v1, '.2f'))
+
