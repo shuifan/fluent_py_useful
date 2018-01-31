@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82eba11e-deae-4189-bfb6-a0a2cf88ada1" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fluent_python.iml" afterPath="$PROJECT_DIR$/.idea/fluent_python.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clock.py" afterPath="$PROJECT_DIR$/clock.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/decorate_arg.py" afterPath="$PROJECT_DIR$/decorate_arg.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my.py" afterPath="$PROJECT_DIR$/my.py" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vector2d_v0.py" afterPath="$PROJECT_DIR$/vector2d_v0.py" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,6 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/fluent_python$Unittests_in_test_py.coverage" NAME="Unittests in my_test.py Coverage Results" MODIFIED="1515317256176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$my.coverage" NAME="my Coverage Results" MODIFIED="1515460209060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$normeq.coverage" NAME="normeq Coverage Results" MODIFIED="1513652221864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -27,10 +32,24 @@
     <SUITE FILE_PATH="coverage/fluent_python$Unittests_in_dispatch_py.coverage" NAME="Unittests in dispatch.py Coverage Results" MODIFIED="1515467042936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$registration.coverage" NAME="registration Coverage Results" MODIFIED="1515311465793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_py_useful$my.coverage" NAME="my Coverage Results" MODIFIED="1516859925913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fluent_python$average_oo.coverage" NAME="average_oo Coverage Results" MODIFIED="1515314756465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fluent_python$example_1_1.coverage" NAME="example-1-1 Coverage Results" MODIFIED="1512469549534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+    <SUITE FILE_PATH="coverage/fluent_py_useful$vector2d_v0.coverage" NAME="vector2d_v0 Coverage Results" MODIFIED="1516085091542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$dispatch.coverage" NAME="dispatch Coverage Results" MODIFIED="1515467306637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$Unittests_in_dispatch_py.coverage" NAME="Unittests in dispatch.py Coverage Results" MODIFIED="1515467042936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
+    <SUITE FILE_PATH="coverage/fluent_python$average_oo.coverage" NAME="average_oo Coverage Results" MODIFIED="1515314756465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$normeq.coverage" NAME="normeq Coverage Results" MODIFIED="1513652221864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$Unittests_in_test_py.coverage" NAME="Unittests in my_test.py Coverage Results" MODIFIED="1515317256176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$example_1_1.coverage" NAME="example-1-1 Coverage Results" MODIFIED="1512469549534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/fluent_python$dispatch.coverage" NAME="dispatch Coverage Results" MODIFIED="1515467306637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+    <SUITE FILE_PATH="coverage/fluent_python$registration.coverage" NAME="registration Coverage Results" MODIFIED="1515311465793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_py_useful$cls_static_method.coverage" NAME="cls_static_method Coverage Results" MODIFIED="1516082932433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
     <SUITE FILE_PATH="coverage/fluent_python$fluent_prac.coverage" NAME="fluent_prac Coverage Results" MODIFIED="1515058549635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$my.coverage" NAME="my Coverage Results" MODIFIED="1515460209060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$listcomp_speed.coverage" NAME="listcomp_speed Coverage Results" MODIFIED="1512539454101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -41,12 +60,28 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="fluent_python" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf>
+      <file leaf-file-name="vector2d_v0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vector2d_v0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="50" column="28" lean-forward="true" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,10 +112,15 @@
         <option value="$PROJECT_DIR$/my_test.py" />
         <option value="$PROJECT_DIR$/dispatch.py" />
         <option value="$PROJECT_DIR$/decorate_arg.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/clock.py" />
         <option value="$PROJECT_DIR$/sms_request.py" />
         <option value="$PROJECT_DIR$/my.py" />
         <option value="$PROJECT_DIR$/tensorflow_self_check.py" />
+=======
+        <option value="$PROJECT_DIR$/cls_static_method.py" />
+        <option value="$PROJECT_DIR$/vector2d_v0.py" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       </list>
     </option>
   </component>
@@ -91,12 +131,21 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="803" />
     <option name="y" value="7" />
     <option name="width" value="974" />
     <option name="height" value="895" />
+=======
+    <option name="x" value="408" />
+    <option name="y" value="23" />
+    <option name="width" value="1032" />
+    <option name="height" value="797" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -112,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -128,6 +178,21 @@
           </PATH>
         </subPane>
       </pane>
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fluent_py_useful" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fluent_py_useful" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,6 +212,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.tensorflow_self_check">
     <configuration default="false" name="my" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,6 +272,10 @@
       <method />
     </configuration>
     <configuration default="false" name="sms_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.vector2d_v0">
+    <configuration name="Unittests in dispatch.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -218,6 +288,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="fluent_python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sms_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -242,6 +313,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
+=======
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/dispatch.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,15 +423,6 @@
       <module name="fluent_python" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -391,8 +466,81 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <configuration name="cls_static_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fluent_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cls_static_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="dispatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fluent_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dispatch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="my" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fluent_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="vector2d_v0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fluent_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vector2d_v0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.my" />
+<<<<<<< HEAD
       <item index="1" class="java.lang.String" itemvalue="Python.dispatch" />
       <item index="2" class="java.lang.String" itemvalue="Python.decorate_arg" />
       <item index="3" class="java.lang.String" itemvalue="Python.sms_request" />
@@ -405,6 +553,20 @@
         <item index="2" class="java.lang.String" itemvalue="Python.sms_request" />
         <item index="3" class="java.lang.String" itemvalue="Python.decorate_arg" />
         <item index="4" class="java.lang.String" itemvalue="Python.dispatch" />
+=======
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in dispatch.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dispatch" />
+      <item index="3" class="java.lang.String" itemvalue="Python.vector2d_v0" />
+      <item index="4" class="java.lang.String" itemvalue="Python.cls_static_method" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.vector2d_v0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.cls_static_method" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dispatch" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in dispatch.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.my" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       </list>
     </recent_temporary>
   </component>
@@ -445,15 +607,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="803" y="7" width="974" height="895" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3085339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <frame x="408" y="23" width="1032" height="797" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3010101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35085413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33618233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24857469" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -469,7 +642,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -488,10 +661,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10164">
           <caret line="462" column="4" lean-forward="false" selection-start-line="462" selection-start-column="4" selection-end-line="462" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+=======
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/normeq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -502,13 +685,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
+    <entry file="file://$PROJECT_DIR$/fluent_prac.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4312">
-          <caret line="196" column="18" lean-forward="false" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py" />
     <entry file="file://$PROJECT_DIR$/example-1-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
@@ -523,13 +709,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11792">
-          <caret line="536" column="4" lean-forward="false" selection-start-line="536" selection-start-column="4" selection-end-line="536" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py" />
     <entry file="file://$PROJECT_DIR$/fluent_prac.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1848">
@@ -551,13 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11792">
-          <caret line="536" column="4" lean-forward="false" selection-start-line="536" selection-start-column="4" selection-end-line="536" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py" />
     <entry file="file://$PROJECT_DIR$/fluent_prac.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1760">
@@ -666,6 +840,7 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/collections/__init__.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/locale.py" />
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/unicodedata.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -690,12 +865,17 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/test/test_generators.py" />
     <entry file="file://$PROJECT_DIR$/registration.py">
+=======
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/unicodedata.py" />
+    <entry file="file://$PROJECT_DIR$/normeq.py">
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/timeit.py" />
     <entry file="file://$PROJECT_DIR$/average_oo.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -706,12 +886,17 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/functools.py" />
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/time.py">
+=======
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/test/cmath_testcases.txt" />
+    <entry file="file://$PROJECT_DIR$/fluent_prac.py">
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4332">
           <caret line="228" column="4" lean-forward="false" selection-start-line="228" selection-start-column="4" selection-end-line="228" selection-end-column="4" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/abc.py" />
     <entry file="file://$PROJECT_DIR$/dispatch.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -721,12 +906,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
+=======
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/test/test_generators.py" />
+    <entry file="file://$PROJECT_DIR$/registration.py">
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/decorate_arg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -735,12 +925,17 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+=======
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/timeit.py" />
+    <entry file="file://$PROJECT_DIR$/average_oo.py">
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10545">
           <caret line="565" column="6" lean-forward="false" selection-start-line="565" selection-start-column="6" selection-end-line="565" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4655">
@@ -775,10 +970,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1463">
           <caret line="81" column="43" lean-forward="false" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="43" />
+=======
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/functools.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/time.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/abc.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/349729920/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/dispatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorate_arg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1596489653/array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="307" column="5" lean-forward="false" selection-start-line="307" selection-start-column="0" selection-end-line="307" selection-end-column="5" />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/tensorflow_self_check.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1831">
@@ -786,11 +1020,19 @@
           <folding>
             <element signature="e#889#902#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1596489653/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="2440" column="30" lean-forward="false" selection-start-line="2440" selection-start-column="14" selection-end-line="2440" selection-end-column="30" />
+          <folding />
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my.py">
+    <entry file="file://$PROJECT_DIR$/cls_static_method.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="19">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
@@ -799,5 +1041,23 @@
         </state>
       </provider>
     </entry>
+=======
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector2d_v0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="50" column="28" lean-forward="true" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 366b0df3ff4eb1230fc3226575c61401f0430663
   </component>
 </project>

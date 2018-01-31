@@ -44,4 +44,4 @@ if __name__ == '__main__':
     # print(isinstance(counter, types.FunctionType))
     # print(str(t))
     # print('function' in str(t))
-    print(list.__mro__)
+    # print(list.__mro__)
