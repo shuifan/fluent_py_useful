@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fluent_python.iml" filepath="$PROJECT_DIR$/.idea/fluent_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fluent_py_useful.iml" filepath="$PROJECT_DIR$/.idea/fluent_py_useful.iml" />
     </modules>
   </component>
 </project>

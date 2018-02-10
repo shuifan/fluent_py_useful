@@ -1,47 +1,12 @@
-from clock import clock
-import time
-import functools
-import types
-import tkinter
-import tensorflow
+import requests
 
-i = 0
+url = "https://api.youku.com/oauth2/token.json"
 
+payload = "------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name=\"client_id\"\r\n\r\n64ab9b21e32f22cd\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name=\"grant_type\"\r\n\r\nrefresh_token\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name=\"refresh_token\"\r\n\r\ne9a14a61ba7762cd8fb0e3f105ddf23b\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW--"
+headers = {
+    'content-type': "multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW",
+    }
 
-def counter(func):
+response = requests.request("POST", url, data=payload, headers=headers)
 
-    def the_counter(*args):
-        global i
-        i += 1
-        return func(*args)
-
-    return the_counter
-
-
-@clock
-def my(seconds):
-    time.sleep(seconds)
-
-
-@functools.lru_cache()
-# @clock
-# @counter
-def febonaqie(n):
-    print('n -> %d' % n)
-    if n < 2:
-        return n
-    return febonaqie(n - 2) + febonaqie(n - 1)
-
-
-if __name__ == '__main__':
-    # t0 = time.time()
-    # time.sleep(2)
-    # t1 = time.time()
-    # print(t1 - t0)
-    # print(febonaqie(30))
-    # print(i)
-    # t = type(counter)
-    # print(isinstance(counter, types.FunctionType))
-    # print(str(t))
-    # print('function' in str(t))
-    # print(list.__mro__)
+print(response.text)
