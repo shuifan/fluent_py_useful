@@ -1,6 +1,6 @@
 from flask import Flask,jsonify
 from flask_cors import *
-
+import json
 app = Flask(__name__)
 app.config['JSON_AS_ASCII'] = False
 #跨域支持
@@ -17,10 +17,10 @@ def health():
 
 @app.route('/')
 def index():
-    return jsonify(index_dict)
+    return json.dumps(index_dict, ensure_ascii=False)
 
 if __name__ == '__main__':
     app.run(
         host='0.0.0.0',
-        port=8060,
+        port=8060
     )
