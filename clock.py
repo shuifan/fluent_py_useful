@@ -1,6 +1,5 @@
 import time
 import functools
-
 # def clock(func):
 #     @functools.wraps(func)
 #     def clocked(*args, **kwargs):
@@ -11,8 +10,6 @@ import functools
 #         print('name -> %s, run_time -> [%.8fs]' % (name, run_time))
 #         return result
 #     return clocked
-
-
 def clock(func):
     @functools.wraps(func)
     def clocked(*args, **kwargs):

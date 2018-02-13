@@ -28,11 +28,19 @@ def febonaqie(n):
         return n
     return febonaqie(n - 2) + febonaqie(n - 1)
 
+class test():
+    def __init__(self, value):
+        self.x = value
+
+    def __call__(self, value):
+        return self.x * value
 
 if __name__ == '__main__':
     # t0 = time.time()
     # time.sleep(2)
     # t1 = time.time()
     # print(t1 - t0)
-    print(febonaqie(30))
-    print(i)
+    # print(febonaqie(30))
+    # print(i)
+    a = test(4)
+    print(a(4))
