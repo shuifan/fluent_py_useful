@@ -27,3 +27,5 @@ def clock(func):
         print('[%0.8fs] %s(%s) -> %r ' % (elapsed, name, arg_str, result))
         return result
     return clocked
+
+
